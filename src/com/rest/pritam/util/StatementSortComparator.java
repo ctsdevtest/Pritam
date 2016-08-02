@@ -1,4 +1,4 @@
-package com.rest.prita.util;
+package com.rest.pritam.util;
 
 
 import java.util.Comparator;
